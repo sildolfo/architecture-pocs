@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vRQ2m4LzdFlA4zu6zg4o-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="160" width="540" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="3qIpMWV46m4MiwF8y7Ns-115" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-90" y="-10" width="978" height="193.5" as="geometry" />
         </mxCell>
@@ -157,16 +160,16 @@
         <mxCell id="3qIpMWV46m4MiwF8y7Ns-66" value="Mobile User" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.user;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-993" y="273.58" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3qIpMWV46m4MiwF8y7Ns-68" value="O usuário mantem sua rotina, mas interage com um aplicativo nosso." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="3qIpMWV46m4MiwF8y7Ns-68" value="O usuário mantem sua rotina, mas interage com um aplicativo nosso." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-759" y="239" width="156" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="3qIpMWV46m4MiwF8y7Ns-69" value="O aplicativo é responsável por &quot;coletar&quot; os dados de entrada." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="3qIpMWV46m4MiwF8y7Ns-69" value="O aplicativo terá capacidade de &quot;coletar&quot; os dados de entrada." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-444" y="239" width="160" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="3qIpMWV46m4MiwF8y7Ns-71" value="O modelo fará a descrição da imagem ou alguma tarefa relacionada capaz de fornecer conhecimento útil para a extração de fatos. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="3qIpMWV46m4MiwF8y7Ns-71" value="O modelo fará a descrição da imagem ou alguma tarefa relacionada capaz de fornecer conhecimento útil para a extração de fatos. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="440" y="230" width="270" height="59.58" as="geometry" />
         </mxCell>
-        <mxCell id="3qIpMWV46m4MiwF8y7Ns-72" value="Classificação das atividades." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="3qIpMWV46m4MiwF8y7Ns-72" value="Classificação das atividades." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="450" y="58" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3qIpMWV46m4MiwF8y7Ns-74" value="&lt;b&gt;Output&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
@@ -197,7 +200,7 @@
             <mxGeometry x="1300" y="-28.5" width="160" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="3qIpMWV46m4MiwF8y7Ns-82" value="O modelo fará classificação, ou geração de embedding ou gerar texto. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="3qIpMWV46m4MiwF8y7Ns-82" value="O modelo fará classificação, ou geração de embedding ou gerar texto. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="450" y="430" width="260" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3qIpMWV46m4MiwF8y7Ns-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" source="3qIpMWV46m4MiwF8y7Ns-86" target="3qIpMWV46m4MiwF8y7Ns-21" edge="1">
@@ -335,8 +338,8 @@
         </mxCell>
         <mxCell id="vRQ2m4LzdFlA4zu6zg4o-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-250" y="636" as="sourcePoint" />
-            <mxPoint x="-250" y="-4" as="targetPoint" />
+            <mxPoint x="-250" y="640" as="sourcePoint" />
+            <mxPoint x="-250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vRQ2m4LzdFlA4zu6zg4o-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
@@ -345,8 +348,11 @@
             <mxPoint x="-828" y="-4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vRQ2m4LzdFlA4zu6zg4o-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;UI &lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-538.5" y="20" width="29" height="40" as="geometry" />
+        <mxCell id="vRQ2m4LzdFlA4zu6zg4o-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;UI &lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;strokeWidth=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-541.75" y="-50" width="35.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="vRQ2m4LzdFlA4zu6zg4o-10" value="Compomente&amp;nbsp; UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="171.5" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
