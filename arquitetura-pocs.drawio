@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.6">
   <diagram name="Página-1" id="G7mpSU9dfvSllVdzedF3">
-    <mxGraphModel dx="3141" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3549" dy="2089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,7 +96,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_befv8S--f8IdSPZEEH6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3qIpMWV46m4MiwF8y7Ns-21" target="3qIpMWV46m4MiwF8y7Ns-84" edge="1">
+        <mxCell id="_befv8S--f8IdSPZEEH6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="3qIpMWV46m4MiwF8y7Ns-21" target="3qIpMWV46m4MiwF8y7Ns-84" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1700" y="346" />
@@ -185,7 +185,7 @@
         <mxCell id="3qIpMWV46m4MiwF8y7Ns-77" value="&lt;b&gt;Output&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="767.5" y="452" width="55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3qIpMWV46m4MiwF8y7Ns-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3qIpMWV46m4MiwF8y7Ns-43" target="3qIpMWV46m4MiwF8y7Ns-21" edge="1">
+        <mxCell id="3qIpMWV46m4MiwF8y7Ns-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="3qIpMWV46m4MiwF8y7Ns-43" target="3qIpMWV46m4MiwF8y7Ns-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3qIpMWV46m4MiwF8y7Ns-43" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;" parent="1" vertex="1">
@@ -197,9 +197,9 @@
           </mxCell>
         </UserObject>
         <mxCell id="3qIpMWV46m4MiwF8y7Ns-82" value="O modelo fará classificação, ou geração de embedding ou gerar texto. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="450" y="446" width="240" height="30" as="geometry" />
+          <mxGeometry x="450" y="430" width="240" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="3qIpMWV46m4MiwF8y7Ns-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3qIpMWV46m4MiwF8y7Ns-86" target="3qIpMWV46m4MiwF8y7Ns-21" edge="1">
+        <mxCell id="3qIpMWV46m4MiwF8y7Ns-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" source="3qIpMWV46m4MiwF8y7Ns-86" target="3qIpMWV46m4MiwF8y7Ns-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1855" y="301.5" />
@@ -215,14 +215,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3qIpMWV46m4MiwF8y7Ns-89" value="O modelo (?) irá requisitar informações ao Knowledge Base para enriquecer suas ações (classificar, recomendar, sugerir)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1500" y="260" width="240" height="30" as="geometry" />
+        <mxCell id="3qIpMWV46m4MiwF8y7Ns-89" value="O modelo (?) irá requisitar informações ao Knowledge Base para enriquecer suas ações (classificar, recomendar, sugerir)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1500" y="230" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3qIpMWV46m4MiwF8y7Ns-91" value="&lt;div&gt;Os fatos temporais, resumos e insights são fornecidos ao modelo/app (?)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1500" y="367.5" width="240" height="30" as="geometry" />
+        <mxCell id="3qIpMWV46m4MiwF8y7Ns-91" value="&lt;div&gt;Os fatos temporais, resumos e insights são fornecidos ao modelo/app (?)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1500" y="367.5" width="240" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="3qIpMWV46m4MiwF8y7Ns-93" value="Feedback com novos dados para o knowlege base" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1540" y="590" width="240" height="30" as="geometry" />
+        <mxCell id="3qIpMWV46m4MiwF8y7Ns-93" value="Feedback com novos dados para o knowlege base" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1540" y="590" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_befv8S--f8IdSPZEEH6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3qIpMWV46m4MiwF8y7Ns-95" target="3qIpMWV46m4MiwF8y7Ns-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -233,7 +233,7 @@
         <mxCell id="3qIpMWV46m4MiwF8y7Ns-96" value="&lt;b&gt;Recomendação&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2275" y="296.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3qIpMWV46m4MiwF8y7Ns-98" value="Realimentar o aprendizado do modelo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="3qIpMWV46m4MiwF8y7Ns-98" value="Realimentar o aprendizado do modelo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="600" y="610" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3qIpMWV46m4MiwF8y7Ns-101" value="Realimentar o modelo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
