@@ -393,7 +393,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Cópia do Visão Geral" id="2HtAVlPNnDsyU_r7UbNF">
-    <mxGraphModel dx="3473" dy="2229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4382" dy="2759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-0" />
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-1" parent="0_7iiNP1xHPKnZbfbnVM-0" />
@@ -784,21 +784,6 @@
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0_7iiNP1xHPKnZbfbnVM-1" source="0_7iiNP1xHPKnZbfbnVM-82" target="0_7iiNP1xHPKnZbfbnVM-37">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z4YSQq9WcvSdXfEJjsZ3-3" value="&lt;div&gt;PDF&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=default;" vertex="1" parent="0_7iiNP1xHPKnZbfbnVM-1">
-          <mxGeometry x="-759" y="870" width="156" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="z4YSQq9WcvSdXfEJjsZ3-4" value="&lt;div&gt;DOCX&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=default;" vertex="1" parent="0_7iiNP1xHPKnZbfbnVM-1">
-          <mxGeometry x="-759" y="950" width="156" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="z4YSQq9WcvSdXfEJjsZ3-5" value="URL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=default;" vertex="1" parent="0_7iiNP1xHPKnZbfbnVM-1">
-          <mxGeometry x="-759" y="1030" width="156" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="z4YSQq9WcvSdXfEJjsZ3-6" value="Chat com RAG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=default;" vertex="1" parent="0_7iiNP1xHPKnZbfbnVM-1">
-          <mxGeometry x="-523" y="1030" width="156" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="z4YSQq9WcvSdXfEJjsZ3-7" value="RAG: vector database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=default;" vertex="1" parent="0_7iiNP1xHPKnZbfbnVM-1">
-          <mxGeometry x="-450" y="1090" width="156" height="51" as="geometry" />
         </mxCell>
         <mxCell id="z4YSQq9WcvSdXfEJjsZ3-0" value="" style="group" vertex="1" connectable="0" parent="0_7iiNP1xHPKnZbfbnVM-1">
           <mxGeometry x="1350" y="1270" width="140" height="124.08" as="geometry" />
