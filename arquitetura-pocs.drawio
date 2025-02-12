@@ -393,7 +393,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Casos de Uso E2E" id="2HtAVlPNnDsyU_r7UbNF">
-    <mxGraphModel dx="3566" dy="2006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3924" dy="2163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-0" />
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-1" parent="0_7iiNP1xHPKnZbfbnVM-0" />
@@ -636,7 +636,7 @@
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-65" value="&lt;div&gt;Os fatos temporais, resumos e insights são fornecidos ao modelo/app (?)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;" parent="0_7iiNP1xHPKnZbfbnVM-1" vertex="1">
           <mxGeometry x="1500" y="367.5" width="240" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="0_7iiNP1xHPKnZbfbnVM-66" value="Federated Learning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;" parent="0_7iiNP1xHPKnZbfbnVM-1" vertex="1">
+        <mxCell id="0_7iiNP1xHPKnZbfbnVM-66" value="Federated Learning (Learn)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;" parent="0_7iiNP1xHPKnZbfbnVM-1" vertex="1">
           <mxGeometry x="1540" y="590" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-67" value="&lt;b&gt;Classificação&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="0_7iiNP1xHPKnZbfbnVM-1" vertex="1">
@@ -1092,7 +1092,7 @@
           <mxGeometry x="10" y="6.75" width="281.39" height="38" as="geometry" />
         </mxCell>
         <mxCell id="va_wvsbjkAych9be9KNV-46" value="Memória de Trabalho" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="va_wvsbjkAych9be9KNV-26">
-          <mxGeometry x="10" y="349" width="210" height="38" as="geometry" />
+          <mxGeometry x="10" y="352" width="210" height="38" as="geometry" />
         </mxCell>
         <mxCell id="va_wvsbjkAych9be9KNV-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0_7iiNP1xHPKnZbfbnVM-1">
           <mxGeometry x="2275" y="640" width="120" height="60" as="geometry" />
