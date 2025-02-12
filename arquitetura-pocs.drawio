@@ -491,16 +491,16 @@
           <mxGeometry x="730" y="49" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-30" value="Sentado/Na Academia/No Condominio" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="0_7iiNP1xHPKnZbfbnVM-29" vertex="1">
-          <mxGeometry x="88" y="2" width="262" height="20" as="geometry" />
+          <mxGeometry x="88" y="2" width="262.00000000000006" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-31" value="Em pé" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="0_7iiNP1xHPKnZbfbnVM-29" vertex="1">
-          <mxGeometry x="88" y="36" width="262" height="20" as="geometry" />
+          <mxGeometry x="88" y="36" width="262.00000000000006" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-32" value="Correndo" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="0_7iiNP1xHPKnZbfbnVM-29" vertex="1">
-          <mxGeometry x="88" y="66" width="262" height="24" as="geometry" />
+          <mxGeometry x="88" y="66" width="262.00000000000006" height="24" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="0_7iiNP1xHPKnZbfbnVM-29" vertex="1">
-          <mxGeometry x="68" width="10" height="100" as="geometry" />
+          <mxGeometry x="68" width="10.000000000000002" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="0_7iiNP1xHPKnZbfbnVM-1" source="0_7iiNP1xHPKnZbfbnVM-37" target="0_7iiNP1xHPKnZbfbnVM-82" edge="1">
           <mxGeometry relative="1" as="geometry">
