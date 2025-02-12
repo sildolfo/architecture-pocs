@@ -393,7 +393,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Casos de Uso E2E" id="2HtAVlPNnDsyU_r7UbNF">
-    <mxGraphModel dx="4448" dy="2392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3566" dy="2006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-0" />
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-1" parent="0_7iiNP1xHPKnZbfbnVM-0" />
@@ -404,7 +404,7 @@
           <mxGeometry width="220" height="790" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-4" value="OUTPUT&lt;br&gt;DATA" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;strokeWidth=1;fontSize=18;align=center;" parent="0_7iiNP1xHPKnZbfbnVM-2" vertex="1">
-          <mxGeometry x="26.4" y="10" width="167.2" height="100" as="geometry" />
+          <mxGeometry x="26.4" y="10" width="167.2" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-5" value="" style="group;strokeWidth=4;strokeColor=#82b366;fillColor=#d5e8d4;fillOpacity=50;rounded=1;gradientColor=#97d077;" parent="0_7iiNP1xHPKnZbfbnVM-1" vertex="1" connectable="0">
           <mxGeometry x="220" y="-120" width="220" height="800" as="geometry" />
@@ -488,10 +488,10 @@
           <mxGeometry x="310" y="69.5" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-29" value="" style="group" parent="0_7iiNP1xHPKnZbfbnVM-1" vertex="1" connectable="0">
-          <mxGeometry x="812" y="49" width="90" height="100" as="geometry" />
+          <mxGeometry x="730" y="49" width="290" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0_7iiNP1xHPKnZbfbnVM-30" value="Sentado" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="0_7iiNP1xHPKnZbfbnVM-29" vertex="1">
-          <mxGeometry x="88" y="2" width="70" height="20" as="geometry" />
+        <mxCell id="0_7iiNP1xHPKnZbfbnVM-30" value="Sentado/Na Academia/No Condominio" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="0_7iiNP1xHPKnZbfbnVM-29" vertex="1">
+          <mxGeometry x="88" y="2" width="202" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-31" value="Em pé" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="0_7iiNP1xHPKnZbfbnVM-29" vertex="1">
           <mxGeometry x="88" y="36" width="70" height="20" as="geometry" />
@@ -682,13 +682,16 @@
           <mxGeometry x="-149.15" y="410" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-81" value="" style="group" parent="0_7iiNP1xHPKnZbfbnVM-1" vertex="1" connectable="0">
-          <mxGeometry x="1850" y="103.25" width="390" height="390" as="geometry" />
+          <mxGeometry x="1850" y="116" width="390" height="390" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-82" value="" style="sketch=0;outlineConnect=0;strokeColor=#d79b00;fillColor=#ffe6cc;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" parent="0_7iiNP1xHPKnZbfbnVM-81" vertex="1">
           <mxGeometry width="390" height="390" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-83" value="&lt;b&gt;POC 2&lt;br&gt;Context &lt;br&gt;Awareness&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=20;" parent="0_7iiNP1xHPKnZbfbnVM-81" vertex="1">
           <mxGeometry x="137.5" y="170.76" width="115" height="71.5" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-25" value="Assistente com Capacidades" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="0_7iiNP1xHPKnZbfbnVM-81">
+          <mxGeometry x="10" y="6.75" width="281.39" height="38" as="geometry" />
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="0_7iiNP1xHPKnZbfbnVM-1" source="0_7iiNP1xHPKnZbfbnVM-82" target="0_7iiNP1xHPKnZbfbnVM-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -777,7 +780,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="0_7iiNP1xHPKnZbfbnVM-1" source="0_7iiNP1xHPKnZbfbnVM-82" target="0_7iiNP1xHPKnZbfbnVM-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1750" y="298" />
+              <mxPoint x="1750" y="298" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="z4YSQq9WcvSdXfEJjsZ3-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=13;strokeWidth=3;" parent="0_7iiNP1xHPKnZbfbnVM-1" source="0_7iiNP1xHPKnZbfbnVM-88" target="z4YSQq9WcvSdXfEJjsZ3-75" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1070,6 +1078,18 @@
         </mxCell>
         <mxCell id="va_wvsbjkAych9be9KNV-24" value="Runtime" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="va_wvsbjkAych9be9KNV-3">
           <mxGeometry x="395.6100000000001" y="300" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-26" value="" style="group" vertex="1" connectable="0" parent="0_7iiNP1xHPKnZbfbnVM-1">
+          <mxGeometry x="1852" y="117" width="390" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-27" value="" style="sketch=0;outlineConnect=0;strokeColor=#d79b00;fillColor=#ffe6cc;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" vertex="1" parent="va_wvsbjkAych9be9KNV-26">
+          <mxGeometry width="390" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-28" value="&lt;b&gt;POC 2&lt;br&gt;Context &lt;br&gt;Awareness&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=20;" vertex="1" parent="va_wvsbjkAych9be9KNV-26">
+          <mxGeometry x="137.5" y="170.76" width="115" height="71.5" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-29" value="Assistente com Capacidades" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="va_wvsbjkAych9be9KNV-26">
+          <mxGeometry x="10" y="6.75" width="281.39" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
