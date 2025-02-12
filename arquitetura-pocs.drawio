@@ -393,7 +393,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Casos de Uso E2E" id="2HtAVlPNnDsyU_r7UbNF">
-    <mxGraphModel dx="3566" dy="2006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4448" dy="2392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-0" />
         <mxCell id="0_7iiNP1xHPKnZbfbnVM-1" parent="0_7iiNP1xHPKnZbfbnVM-0" />
@@ -707,9 +707,7 @@
             <mxPoint x="2220" y="560" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2260" y="298" />
-              <mxPoint x="2260" y="580" />
-              <mxPoint x="2250" y="580" />
-              <mxPoint x="2250" y="920" />
+              <mxPoint x="2260" y="920" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -986,6 +984,91 @@
           <mxGeometry x="87.61000000000013" y="106" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="va_wvsbjkAych9be9KNV-1" value="Runtime" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="z4YSQq9WcvSdXfEJjsZ3-88">
+          <mxGeometry x="395.6100000000001" y="300" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-2" value="&lt;b&gt;Sugestão&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0_7iiNP1xHPKnZbfbnVM-1">
+          <mxGeometry x="2275" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-3" value="" style="group" vertex="1" connectable="0" parent="0_7iiNP1xHPKnZbfbnVM-1">
+          <mxGeometry x="2570" y="-50" width="540" height="669" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="va_wvsbjkAych9be9KNV-3">
+          <mxGeometry width="540" height="669" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-5" value="" style="group" vertex="1" connectable="0" parent="va_wvsbjkAych9be9KNV-3">
+          <mxGeometry x="230.61000000000013" y="340" width="140" height="124.08" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-6" value="d" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="va_wvsbjkAych9be9KNV-5">
+          <mxGeometry width="140" height="124.07999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-7" value="POC1 QA" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;fontStyle=1" vertex="1" parent="va_wvsbjkAych9be9KNV-5">
+          <mxGeometry x="48.36363636363637" y="20.06083832335329" width="37.090909090909086" height="54.54545454545454" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="va_wvsbjkAych9be9KNV-3" source="va_wvsbjkAych9be9KNV-9" target="va_wvsbjkAych9be9KNV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-9" value="Usuário requisita alguma tarefa: &lt;br&gt;&lt;div&gt;Relatório do Dia&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.user;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;fontStyle=1" vertex="1" parent="va_wvsbjkAych9be9KNV-3">
+          <mxGeometry x="270.6100000000001" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-10" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;System Prompt App&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 204, 0);&quot;&gt;&lt;b&gt;Query: {user}&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Context: {POC1}&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(246, 97, 81), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;I&lt;span style=&quot;color: rgb(237, 51, 59);&quot;&gt;nstruction: {DOC ALERTS}&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(255, 102, 102);&quot;&gt;&lt;br&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(237, 51, 59);&quot;&gt;Example&lt;/span&gt;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 255);&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255);&quot;&gt;&lt;span style=&quot;color: rgb(255, 102, 102);&quot;&gt;&lt;b&gt;Output:&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;b&gt;&lt;span style=&quot;color: rgb(0, 204, 0);&quot;&gt;{text}&lt;/span&gt;&lt;/b&gt; | &lt;span style=&quot;color: rgb(237, 51, 59);&quot;&gt;&lt;b&gt;{image}&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="va_wvsbjkAych9be9KNV-3">
+          <mxGeometry x="213.61000000000013" y="475" width="174.39" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="va_wvsbjkAych9be9KNV-3" source="va_wvsbjkAych9be9KNV-6" target="va_wvsbjkAych9be9KNV-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300.6100000000001" y="255" />
+              <mxPoint x="300.6100000000001" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-12" value="Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="va_wvsbjkAych9be9KNV-11">
+          <mxGeometry x="-0.2234" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#ED333B;strokeWidth=2;" edge="1" parent="va_wvsbjkAych9be9KNV-3" source="va_wvsbjkAych9be9KNV-15" target="va_wvsbjkAych9be9KNV-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280.6100000000001" y="335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270.6100000000001" y="226" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-14" value="&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(237, 51, 59), rgb(237, 237, 237));&quot;&gt;Sem responsável&lt;br&gt;&lt;/span&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="va_wvsbjkAych9be9KNV-13">
+          <mxGeometry x="0.0269" relative="1" as="geometry">
+            <mxPoint x="-50" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-15" value="&lt;span style=&quot;color: rgb(237, 51, 59);&quot;&gt;Whisper for Audio&lt;br&gt;(Daniel)&lt;br&gt;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/brain-think-brainstorm-creative-idea-128.png;fontStyle=1" vertex="1" parent="va_wvsbjkAych9be9KNV-3">
+          <mxGeometry x="110.11000000000013" y="197" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="va_wvsbjkAych9be9KNV-3" source="va_wvsbjkAych9be9KNV-17" target="va_wvsbjkAych9be9KNV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-17" value="&lt;span style=&quot;color: rgb(237, 51, 59);&quot;&gt;&lt;b&gt;LLM for Text&lt;/b&gt;&lt;/span&gt; (alterar o Gemini)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/brain-think-brainstorm-creative-idea-128.png" vertex="1" parent="va_wvsbjkAych9be9KNV-3">
+          <mxGeometry x="418.1100000000001" y="216" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="va_wvsbjkAych9be9KNV-3" source="va_wvsbjkAych9be9KNV-23" target="va_wvsbjkAych9be9KNV-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="138.61000000000013" y="175" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="va_wvsbjkAych9be9KNV-3" source="va_wvsbjkAych9be9KNV-20" target="va_wvsbjkAych9be9KNV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-20" value="Text Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="va_wvsbjkAych9be9KNV-3">
+          <mxGeometry x="395.6100000000001" y="150" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.536;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#00CC00;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="va_wvsbjkAych9be9KNV-3" source="va_wvsbjkAych9be9KNV-9" target="va_wvsbjkAych9be9KNV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-22" value="PoC 2 - Outro Caso de Uso " style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="va_wvsbjkAych9be9KNV-3">
+          <mxGeometry x="18.61" y="14" width="281.39" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-23" value="Audio Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="va_wvsbjkAych9be9KNV-3">
+          <mxGeometry x="87.61000000000013" y="106" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="va_wvsbjkAych9be9KNV-24" value="Runtime" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="va_wvsbjkAych9be9KNV-3">
           <mxGeometry x="395.6100000000001" y="300" width="103" height="30" as="geometry" />
         </mxCell>
       </root>
