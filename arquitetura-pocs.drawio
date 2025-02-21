@@ -2908,7 +2908,7 @@
           <mxGeometry x="1740" y="1140" width="170" height="181" as="geometry" />
         </mxCell>
         <mxCell id="ZPM-8YOLc2EQFYY9WFu5-63" value="&lt;b&gt;Reescrevo (LLM) + Parser Output -&amp;gt;&amp;nbsp; rotear a query&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="1339" width="380" height="30" as="geometry" />
+          <mxGeometry x="1670" y="1339" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZPM-8YOLc2EQFYY9WFu5-67" value="&lt;b&gt;JSON:&lt;br&gt;{ Vector = True&lt;br&gt;{ SQL = False&lt;br&gt;{ Scheduling = False&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1660" y="1350" width="330" height="150" as="geometry" />
