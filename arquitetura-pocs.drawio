@@ -2914,7 +2914,7 @@
           <mxGeometry x="1660" y="1350" width="330" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ZPM-8YOLc2EQFYY9WFu5-68" value="&lt;b&gt;JSON -&amp;gt; Kotlin -&amp;gt; Tarefa, serviço, agente&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="1449" width="260" height="70" as="geometry" />
+          <mxGeometry x="1695" y="1449" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZPM-8YOLc2EQFYY9WFu5-69" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="860" y="1590" width="810" height="679" as="geometry" />
