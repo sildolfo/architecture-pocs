@@ -126,7 +126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Multimodal inferecens" id="Ump_H59My2MDq877Wa-b">
-    <mxGraphModel dx="3018" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2849" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SiSykMdoqyqS63agGUar-0" />
         <mxCell id="SiSykMdoqyqS63agGUar-1" parent="SiSykMdoqyqS63agGUar-0" />
@@ -261,6 +261,9 @@
         </mxCell>
         <mxCell id="FL6FWfjnT3chdjEkPMux-41" value="Transcription&lt;br&gt;Embeddings&lt;br&gt;Labels" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeColor=default;fillColor=default;" parent="SiSykMdoqyqS63agGUar-1" vertex="1">
           <mxGeometry x="-984.5" y="759" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EGbe_7YMlMb9X_te9YMp-0" value="&lt;div&gt;Esforços Paralelos em Inferencia&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;HAR2Text (?)&lt;/b&gt;: não tem ninguem&lt;/div&gt;&lt;div&gt;&lt;b&gt;Image2Text&lt;/b&gt;: Andrey e Daniel&lt;br&gt;&lt;b&gt;Audio2Text&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SiSykMdoqyqS63agGUar-1">
+          <mxGeometry x="-1460" y="910" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
