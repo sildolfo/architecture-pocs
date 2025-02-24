@@ -2724,7 +2724,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Caso de Uso - Conversacional" id="L6pe5S8k5xOyNaiy0cFF">
-    <mxGraphModel dx="860" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1142" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="I_UPDSMito83Rv6H_m5f-0" />
         <mxCell id="I_UPDSMito83Rv6H_m5f-1" parent="I_UPDSMito83Rv6H_m5f-0" />
@@ -2911,10 +2911,10 @@
           <mxGeometry x="1670" y="1339" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I_UPDSMito83Rv6H_m5f-46" value="&lt;b&gt;JSON:&lt;br&gt;{ Vector = True&lt;br&gt;{ SQL = False&lt;br&gt;{ Scheduling = False&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I_UPDSMito83Rv6H_m5f-1">
-          <mxGeometry x="1660" y="1350" width="330" height="150" as="geometry" />
+          <mxGeometry x="1670" y="1380" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I_UPDSMito83Rv6H_m5f-47" value="&lt;b&gt;JSON -&amp;gt; Kotlin -&amp;gt; Tarefa, serviço, agente&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I_UPDSMito83Rv6H_m5f-1">
-          <mxGeometry x="1695" y="1449" width="260" height="70" as="geometry" />
+          <mxGeometry x="1695" y="1480" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="I_UPDSMito83Rv6H_m5f-48" value="" style="group" vertex="1" connectable="0" parent="I_UPDSMito83Rv6H_m5f-1">
           <mxGeometry x="860" y="1590" width="810" height="679" as="geometry" />
