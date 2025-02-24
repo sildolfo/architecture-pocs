@@ -3776,7 +3776,7 @@
             <mxPoint x="-23" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4sHW34QoXXs_ol3ESblm-9" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/font&gt;BASE SINTÉTICA&lt;/b&gt;&lt;/div&gt;&lt;br&gt;(Sindolfo)" style="shape=datastore;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4sHW34QoXXs_ol3ESblm-2">
+        <mxCell id="4sHW34QoXXs_ol3ESblm-9" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/font&gt;BASE SINTÉTICA&lt;/b&gt;&lt;/div&gt;(Sindolfo)" style="shape=datastore;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4sHW34QoXXs_ol3ESblm-2">
           <mxGeometry x="70" y="259" width="150" height="230" as="geometry" />
         </mxCell>
         <mxCell id="4sHW34QoXXs_ol3ESblm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.002;exitY=0.204;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="4sHW34QoXXs_ol3ESblm-2">
@@ -3858,8 +3858,8 @@
         <mxCell id="4sHW34QoXXs_ol3ESblm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.536;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#00CC00;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="4sHW34QoXXs_ol3ESblm-2" source="4sHW34QoXXs_ol3ESblm-14" target="4sHW34QoXXs_ol3ESblm-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4sHW34QoXXs_ol3ESblm-28" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Caso de Uso usando HAR&lt;/b&gt;: usar a POC 1 como fonte de dados para o ObjectBox e ter tarefas pré-definidas em um prompt específico.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;" vertex="1" parent="4sHW34QoXXs_ol3ESblm-2">
-          <mxGeometry x="32" y="49" width="352.5" height="80" as="geometry" />
+        <mxCell id="4sHW34QoXXs_ol3ESblm-28" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Caso de Uso usando HAR&lt;/b&gt;: usar a POC1 (banco de dados) como fonte de dados para o modelo HAR, que já existe, e validar se é fazer a inferência.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;" vertex="1" parent="4sHW34QoXXs_ol3ESblm-2">
+          <mxGeometry x="32" y="49" width="338" height="151" as="geometry" />
         </mxCell>
         <mxCell id="4sHW34QoXXs_ol3ESblm-29" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;Knowledge Database&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;br&gt;(Sindolfo)" style="shape=datastore;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4sHW34QoXXs_ol3ESblm-1">
           <mxGeometry x="1740" y="894" width="150" height="230" as="geometry" />
@@ -3924,14 +3924,8 @@
         <mxCell id="4sHW34QoXXs_ol3ESblm-43" value="&lt;b&gt;Fase 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4sHW34QoXXs_ol3ESblm-1">
           <mxGeometry x="2132.5" y="880" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4sHW34QoXXs_ol3ESblm-45" value="&lt;b&gt;Reescrevo (LLM) + Parser Output -&amp;gt;&amp;nbsp; rotear a query&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4sHW34QoXXs_ol3ESblm-1">
-          <mxGeometry x="1670" y="1339" width="320" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4sHW34QoXXs_ol3ESblm-46" value="&lt;b&gt;JSON:&lt;br&gt;{ Vector = True&lt;br&gt;{ SQL = False&lt;br&gt;{ Scheduling = False&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4sHW34QoXXs_ol3ESblm-1">
-          <mxGeometry x="1660" y="1350" width="330" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="4sHW34QoXXs_ol3ESblm-47" value="&lt;b&gt;JSON -&amp;gt; Kotlin -&amp;gt; Tarefa, serviço, agente&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4sHW34QoXXs_ol3ESblm-1">
-          <mxGeometry x="1695" y="1449" width="260" height="70" as="geometry" />
+        <mxCell id="4sHW34QoXXs_ol3ESblm-45" value="&lt;b&gt;Reescrevo (LLM) + Parser Output -&amp;gt;&amp;nbsp; rotear a query&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;JSON:&lt;br&gt;{ Vector = True&lt;br&gt;{ SQL = False&lt;br&gt;{ Scheduling = False&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;JSON -&amp;gt; Kotlin -&amp;gt; Tarefa, serviço, agente&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4sHW34QoXXs_ol3ESblm-1">
+          <mxGeometry x="1670" y="1160" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="4sHW34QoXXs_ol3ESblm-48" value="" style="group" vertex="1" connectable="0" parent="4sHW34QoXXs_ol3ESblm-1">
           <mxGeometry x="860" y="1590" width="810" height="679" as="geometry" />
