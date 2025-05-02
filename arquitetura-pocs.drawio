@@ -81,7 +81,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hECcjvtA30Y0fuAC0anF-3" value="Cognitive Architecture - CST Mobile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="hECcjvtA30Y0fuAC0anF-3" value="Cognitive Architecture - CoALA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1370" y="242.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hECcjvtA30Y0fuAC0anF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YmoVtGV1arZhVPK2dCTf-5" edge="1">
